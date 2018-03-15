@@ -4,6 +4,7 @@ Africa,Angola
 Africa,Benin
 Africa,Botswana
 Africa,Burkina
+Africa,Burkina Faso
 Africa,Burundi
 Africa,Cameroon
 Africa,Cape Verde
@@ -14,12 +15,15 @@ Africa,Congo
 Africa,"Congo, Democratic Republic of"
 Africa,Côte d'Ivoire
 Africa,Djibouti
+Africa,Democratic Republic of the Congo
+Africa,Republic of the Congo
 Africa,Egypt
 Africa,Equatorial Guinea
 Africa,Eritrea
 Africa,Ethiopia
 Africa,Gabon
 Africa,Gambia
+Africa,The Gambia
 Africa,Ghana
 Africa,Guinea
 Africa,Guinea-Bissau
@@ -33,13 +37,16 @@ Africa,Malawi
 Africa,Mali
 Africa,Mauritania
 Africa,Mauritius
+Africa,Mayotte
 Africa,Morocco
 Africa,Mozambique
 Africa,Namibia
 Africa,Niger
 Africa,Nigeria
+Africa,Reunion
 Africa,Rwanda
 Africa,Sao Tome and Principe
+Africa,São Tomé and Príncipe
 Africa,Senegal
 Africa,Seychelles
 Africa,Sierra Leone
@@ -83,6 +90,7 @@ Asia,Laos
 Asia,Lebanon
 Asia,Malaysia
 Asia,Maldives
+Asia,Macau
 Asia,Mongolia
 Asia,Nepal
 Asia,Oman
@@ -98,12 +106,14 @@ Asia,Syria
 Asia,Taiwan
 Asia,Tajikistan
 Asia,Thailand
+Asia,Timor-Leste
 Asia,Turkey
 Asia,Turkmenistan
 Asia,United Arab Emirates
 Asia,Uzbekistan
 Asia,Vietnam
 Asia,Yemen
+Europe,Åland Islands
 Europe,Albania
 Europe,Andorra
 Europe,Armenia
@@ -118,15 +128,20 @@ Europe,Cyprus
 Europe,Czech Republic
 Europe,Denmark
 Europe,Estonia
+Europe,Faroe Islands
 Europe,Finland
 Europe,France
 Europe,Georgia
 Europe,Germany
+Europe,Gibraltar
 Europe,Greece
+Europe,Guernsey
 Europe,Hungary
 Europe,Iceland
 Europe,Ireland
+Europe,Isle of Man
 Europe,Italy
+Europe,Jersey
 Europe,Latvia
 Europe,Liechtenstein
 Europe,Lithuania
@@ -151,33 +166,50 @@ Europe,Switzerland
 Europe,Ukraine
 Europe,United Kingdom
 Europe,Vatican City
+North America,Anguilla
 North America,Antigua and Barbuda
 North America,Bahamas
 North America,Barbados
 North America,Belize
 North America,Canada
+North America,The Bahamas
+North America,Bermuda
+North America,British Virgin Islands
+North America,Cayman Islands
+North America,Collectivity of Saint Martin
 North America,Costa Rica
 North America,Cuba
 North America,Dominica
 North America,Dominican Republic
 North America,El Salvador
 North America,Grenada
+North America,Guadeloupe
 North America,Guatemala
+North America,Greenland
 North America,Haiti
 North America,Honduras
 North America,Jamaica
+North America,Martinique
 North America,Mexico
 North America,Nicaragua
 North America,Panama
 North America,Puerto Rico
+North America,Saint-Barthélemy
 North America,Saint Kitts and Nevis
 North America,Saint Lucia
 North America,Saint Vincent and the Grenadines
+North America,Sint Maarten
 North America,Trinidad and Tobago
 North America,United States
+North America,U.S. Virgin Islands
 Oceania,Australia
+Oceania,Guam
+Oceania,New Caledonia
+Oceania,Federated States of Micronesia
 Oceania,Fiji
+Oceania,French Polynesia
 Oceania,Kiribati
+Oceania,Northern Mariana Islands
 Oceania,Marshall Islands
 Oceania,Micronesia
 Oceania,Nauru
@@ -190,12 +222,17 @@ Oceania,Tonga
 Oceania,Tuvalu
 Oceania,Vanuatu
 South America,Argentina
+South America,Aruba
 South America,Bolivia
 South America,Brazil
+South America,Caribbean Netherlands
 South America,Chile
 South America,Colombia
+South America,Curaçao
 South America,Ecuador
 South America,Guyana
+South America,Falkland Islands
+South Amercia,French Guiana
 South America,Paraguay
 South America,Peru
 South America,Suriname
