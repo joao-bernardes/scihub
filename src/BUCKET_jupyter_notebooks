@@ -1,0 +1,53 @@
+================================
+
+Jupyter Notebook:
+____Alter Scripts in ipynb
+____Alter py scripts:
+
+
+SCIHUB/:			[]
+								Notes:
+outsrc/				[X]
+src/				[X]
+sample.py			[]				It is data Wrangling and should go there
+sample.2017.statistics.py	[]				Does 2017.statistics.sample.tab overwrite an existing file?
+
+
+
+OUTSRC/:							Notes:
+Analysis.Gini.ipynb					[X]		
+Analysis.WYD.ipynb					[X]		
+GDP.ipynb						[X]		Would be good to later on add Unzipping Script/Delete Headers from csv
+Internet_Access.ipynb					[X]		Would be good to later on add Unzipping Script/Delete Headers from csv
+R&D Investment.ipynb					[X]		Would be good to Dwnload, add Unzipping Script/Delete Headers from csv 
+World_pop.ipynb						[X]		Would be good to later on add Unzipping Script/Delete Headers from csv
+
+SRC/								Notes:
+2016.Statistics/Analysis.2016.Articles.ipynb		[X]		Generates Some Files. Should Check That.
+2016.Statistics/Analysis.2016.Downloads.ipynb		[X]		
+
+2017.Statistics/Analysis.2017.Articles.ipynb		[X]		
+2017.Statistics/Analysis.2017.Downloads.ipynb		[X]		Needs Separate Wrangling from Analysis		
+2017.Statistics/Fetch_Cities.downloads.ipynb		[X]		
+2017.Statistics/Fetch_Details.2017.Articles.ipynb	[X]		
+2017.Statistics/OA_Status.2017.Articles.ipynb		[X]		Check NOTES *
+2017.Statistics/OA_Status.DOIs.ipynb			[X]		Check NOTES *
+2017.Statistics/Sample.2017.Statistics.ipynb		[X]		
+sanboxes/							
+Wrangling (oa_status_by_doi.csv).ipynb			[X]		Returning Error		
+
+
+=======================================
+
+NOTES:
+	*
+ 	 What is the difference between 2017.statistics.sample.oa_status.csv and 2017.statistics.oa_status.csv ?
+ 	 The first is plain wrong and should be deleted. My hunch. 
+ 	 Anyway the non-sample file has not the correct number of entries so that needs to be seen through.
+
+
+
+
+
+
+
