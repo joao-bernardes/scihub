@@ -1,0 +1,69 @@
+BACKUP BUCKET						NOTES:
+
+/MEDIA/Blackpool				[X]	Copy all files to actual PEN !!!!
+____Datasets ------------	check inventory	[X]
+____Tese ----------------	(THESIS_BACKUP)	[X]	
+____código --------------	(BACKUP_SCIHUB)	[X]
+
+
+~/Backup:						Make a folder in computer similar to pen file
+____Datasets ------------	check inventory	[X]
+____Tese ----------------	(THESIS_BACKUP)	[X]	
+____código --------------	(BACKUP_SCIHUB)	[X]
+
+INVENTORY DATASETS:
+2017.statistics.sample.with_missin_cities.csv	[X]
+city_gps.csv					[X]
+2017.Statistics.DOI_Publishers.csv	294Mb	[X]
+Countries_Continents.csv			[X]
+simplemaps-worldcities-basic.csv		[X]
+
+
+full/:			
+2016.Statistics/6months ...			[X]
+2016.statistics.prefix.csv			[X]
+2016.Statistics.tab			2gb	[X]
+2017.statistics.1016.j.tab		4.2gb	[X]
+2017.statistics.tab.gz			4gb   	[X]
+oa_status_by_doi.csv.gz			8gb	[X]	
+2017.statistics.oa_status.csv  		52Mb	[X]			Note: Mas quem és tu? Sou os 2017.statistics com OA_status
+
+
+sample/:				
+2017.statistics.sample.oa_status.csv	170Mb	[X]
+2017.statistics.sample.csv     		157Mb	[X]
+2017.statistics.sample.tab     		157Mb	[X]			Note: Hmmm...!
+
+
+test/:
+2016.statistics.test.tab       		131kb	[X]
+2017.statistics.test.csv			[X]
+2017.Statistics.DOI_Publishers.test.csv		[X]
+
+outsrc/:
+GeoNames/cities1000.zip								[X]
+Maxmind/worldcitiespop.txt.gz							[X]	Notes:
+world_bank/:									
+world_bank/'GDP PPP'/API_NY.GDP.MKTP.PP.CD_DS2_en_csv_v2.zip			[X]
+world_bank/'Internet access'/API_IT.NET.USER.ZS_DS2_en_csv_v2.zip		[X]
+world_bank/Milanovic/allginis_2016.dta						[X]
+world_bank/Milanovic/WorldIncomeDistribution1988-2005.dta			[X]	(É sequer utilizado em alguma coisa?)
+world_bank/Milanovic/variable_description.pdf					[X]	(Será mesmo necessário?)
+world_bank/'R&D Investment'/API_GB.XPD.RSDV.GD.ZS_DS2_en_csv_v2_9944937.csv	[X]
+world_bank/'R&D Investment'/'R&D.Investment.Wikipedia'				[X]	(.csv?) 
+world_bank/'World Population'/world_population.csv				[X]	(De onde é que isto veio?)
+
+							
+
+============
+IMPORTANT:
+
+DO NOT DELETE the files .ipynb contained in ./world_bank/ folders neither Maxmind
+GIVE THEM A NEW PLACE									[X]
+
+
+
+
+
+ 
+
